@@ -1,4 +1,11 @@
-### Hi there 👋
+### Olá, sou Marina Teixeira 👋
+
+## Bem vindo ao meu perfil no Github!
+
++ 📚 Atuamento cursando ciência da computação.
+
+## Estou aprendendo:
+
 
 <!--
 **Marina-teixeira/Marina-teixeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
